@@ -13,7 +13,9 @@ A position statement on climate change was previously adopted by the American Ge
 ## Contact
 
 For more information on contributing comments contact [Amazing Student](mailto:amazingstudent@uw.edu)
+
 For AGU GeoHealth information contact [Claire Horwell - Section President](mailto:amazingstudent@uw.edu)
+
 For Waterhackweek information contact [Dr. Christina Bandaragoda](mailto:cband@uw.edu).
 
 ### Technical notes
