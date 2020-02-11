@@ -1,4 +1,4 @@
-# Climate Change Position Statement learning-resources 
+# Climate Change Position Statement & Learning Reources 
 Brought to you by the American Geophysical Society GeoHealth Section Leadership Team and Policy Committee
 
 2019.10.12 GeoHealth Comments Integrated in AGU Position Statement.  This is a review version for additional commenting on GeoHealth Section edits Submitted by Aubrey Miller (President) and Claire Horwell (President-Elect) on behalf of the GeoHealth Section Leadership (October 11, 2019). AGU commenting period ends 2019.10.13.
