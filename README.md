@@ -5,8 +5,8 @@ Brought to you by the American Geophysical Society GeoHealth Section Leadership 
 
 This repository contains information and resources to support additional comment on the AGU Climate Change Position Statement. 
 
-For the Current climate change policy statement updated in 2019 on the AGU website:
-https://www.agu.org/Share-and-Advocate/Share/Policymakers/Position-Statements/Position_Climate
+Visit the AGU website as this link for the [Current climate change policy statement updated in 2019](
+https://www.agu.org/Share-and-Advocate/Share/Policymakers/Position-Statements/Position_Climate)
 
 A position statement on climate change was previously adopted by the American Geophysical Union in December 1998; A new version was adopted December 2003; Revised and Reaffirmed December 2007, February 2012, August 2013, November 2019.  
 
