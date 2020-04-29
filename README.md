@@ -10,6 +10,11 @@ https://www.agu.org/Share-and-Advocate/Share/Policymakers/Position-Statements/Po
 
 A position statement on climate change was previously adopted by the American Geophysical Union in December 1998; A new version was adopted December 2003; Revised and Reaffirmed December 2007, February 2012, August 2013, November 2019.  
 
+To learn more about the AGU Position Statement comment process, see this EOS article (AGU, 2019), the current Position Statement on Climate Change (adopted November 2019), and additional AGU resources on Climate Change including the Fact Sheet on Climate Change. 
+
+To learn more about AGU’s GeoHealth Section, visit us on [GeoHealth AGU Connect](https://connect.agu.org/geohealth/home) and follow us on Twitter: @AguGeohealth. The community is invited to share and discuss comments about the position statements with us [here:](https://github.com/waterhackweek/Climate-Change-Position)
+
+
 ## Contact
 
 For more information on contributing comments contact [Amazing Student](mailto:amazingstudent@uw.edu).
