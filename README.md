@@ -1,6 +1,10 @@
 # GeoHealth Policy & Learning Resources
+To learn more about AGU's GeoHealth Section, visit https://connect.agu.org/geohealth/home 
+Follow us on Twitter: @AguGeohealth.  Read more at [A GeoHealth Response to a Geoscience Community Climate Change Position Statement (Rehr et al 2020)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GH000265).
 
-## What is a GeoHealth Policy? 
+AGU provides support for member comments on its position statements (AGU, 2019a), as well as content‐specific information that may be helpful in the comment process, like fact sheets and issue briefs (e.g., the Fact Sheet on Climate Change; AGU, n.d.).
+
+## What is a GeoHealth Policy or GeoHealth Position Statement? 
 #### Work in Progress Definitions:
 
 To qualify as a GeoHealth Policy or GeoHealth-informed decision, an educational or research products or resources used to substantiate the policy position or decision must address the following issues: geo-scalability, info-scalability, and socio-scalability. 
@@ -14,7 +18,10 @@ To qualify as a GeoHealth Policy or GeoHealth-informed decision, an educational 
 
 **GeoHealth Case Studies** are generally on 'the edge' geographically and technically, and/or 'end-members' numerically and mineralogically or chemically. An edge-end-member geohealth case study or experimental design can be identified as a dynamic intersection of vulnerable ecosystems, communities and individuals with high risk of impact or change. By using case studies from edge-end-member scenarios and research experiments, scientific advancement can be identified with research products that may have profound impacts in a scientific community, and/or broad impacts in collaborative socio-technology, education, informatics, natural hazards, and policy domains. 
 
-**AGU GeoHealth Section and GeoHealth membership** have wide-ranging research areas and applications that connect individual scientists to local and global research and education resources, in order to understand individual impacts connected to cumulative and nested processes, that scale across household, neighborhood, community, regional and global ecoystems.   
+**AGU GeoHealth Section and GeoHealth membership** have wide-ranging research areas and applications that connect individual scientists to local and global research and education resources, in order to understand individual impacts connected to cumulative and nested processes, that scale across household, neighborhood, community, regional and global ecoystems.  
+
+# How are Climate and Mental Health and COVID-19 connected?
+[Matt Haig just perfectly explained how the climate crisis is linked to our mental health](https://www.stylist.co.uk/people/matt-haig-climate-change-mental-health-issue-compartmentalising-problem/427048), by Lauren Geall, September 15, 2020. [!image](https://twitter.com/matthaig1/status/1305962967402414088?s=20)
 
 ## Proposal for a AGU Fall Meeting Town Hall on Mental Health: 
 When any AGU member is disrupted or unable to contribute to education and research, we can expect global ripple effects of scientific progress linked to the growth or decline of institutional and physical process understanding within research communities and public knowledge systems, about earth and environmental systems on which human health and society depend. 
