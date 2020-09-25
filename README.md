@@ -4,10 +4,15 @@ Follow us on Twitter: @AguGeohealth.  Read more at [A GeoHealth Response to a Ge
 
 AGU provides support for member comments on its position statements ([AGU, 2019a](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GH000265#gh2170-bib-0001)), as well as content‐specific information that may be helpful in the comment process, like fact sheets and issue briefs ([e.g., the Fact Sheet on Climate Change; AGU, n.d.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GH000265#gh2170-bib-0003)).
 
-## What is a GeoHealth Policy or GeoHealth Position Statement? 
-#### Work in Progress Definitions:
+# What is GeoHealth ?
 
-To qualify as a GeoHealth Policy or GeoHealth-informed decision, an educational or research products or resources used to substantiate the policy position or decision must address the following issues: geo-scalability, info-scalability, and socio-scalability. 
+#### Work in Progress Summary Definitions:  [Read more on this Geohealth Fact Sheet](https://www.agu.org/Share-and-Advocate/Share/Policymakers/Position-Statements/Fact-sheet-Geohealth)
+
+**Geohealth**: an emerging field of science that uses the intersection of Earth sciences, ecology, and health sciences to understand how environmental changes or exposures affect and impact agricultural, ecological, and human health and disease. AGU GeoHealth Section members increase scientific understanding and broaden the study of how climate, pollution, hazards, ecosystems, and agriculture shape human and ecological health, as observed in past and current conditions, and projected for  future scenarios of geophysical processes, health of human individuals and communities, and ecosystem networks on the Earth. 
+
+**GeoHealth Policy**: For the purpose of determining AGU GeoHealth member consensus on a shared issue of community interest, to qualify as a GeoHealth Policy or GeoHealth-informed decision, an educational or research products or resources used to substantiate the policy position or decision must address the following issues: geo-scalability, info-scalability, and socio-scalability. 
+
+_Examples of emergent Geohealth research questions include:_ How will greenhouse gas emission regulations imposed for air pollution reduction after forest fires 2015-2020, impact premature death rates in cities impacted by chronic exposure due to urban air pollution? How is the 2020 hurricane season preparation impacting drinking water and sanitation infrastructure relative to the global burden of disease ? How does weather variability, short term and long term climate trends impact the distribution and exposure of vulnerable populations to viral transmission for vector-borne disease (e.g. Lyme, West Nile) and air-borne disease (e.g. COVID-19, seasonal flu)?  
 
 **Geo-scalability**: geographic scaling for global, community, and individual usability for decisions and communication.
 
@@ -35,17 +40,17 @@ When any AGU member is disrupted or unable to contribute to education and resear
 
 
 
-### Questions to Explore while ensuring 'GeoHealth' policy alignment: 
+### Questions
+***for Invited Speakers, Community Discussion with Moderated Q & A, Interactive Work Sessions***
+***to Explore while ensuring 'GeoHealth' policy alignment***
+ 
+1. How do we normalize geohealthy* culture shifts that support learning environments, educators and researchers?  
 
-***Invited Speakers, Community Discussion with Moderated Q & A, Interactive Work Sessions***
+2. How do we address normal and trauma-informed levels of discomfort to operationalize the use of new tools and geohealth resources*?  
 
-How do we normalize geohealthy* culture shifts that support learning environments, educators and researchers?  
+3. What can I do today to educate myself and others about integrating existing geohealth resources* into my work process?  
 
-How do we address normal and trauma-informed levels of discomfort to operationalize the use of new tools and geohealth resources*?  
-
-What can I do today to educate myself and others about integrating existing geohealth resources* into my work process?  
-
-* Resources - in this definition, 'Geohealth Resources' scale global, community, and individual resources as per definitions above. Defining a shared understanding with terms and vocabulary is one component of a process for determining consensus on position statements, building on  and GeoHealth Section leadership work in progress, introduced in the article [A GeoHealth Response to a Geoscience Community Climate Change Position Statement (Rehr et al 2020)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GH000265).
+_Geohealthy what?_  Geohealth does have a [definition](https://www.agu.org/Share-and-Advocate/Share/Policymakers/Position-Statements/Fact-sheet-Geohealth) and an [award winning journal academic journal - GeoHealth](https://agupubs.onlinelibrary.wiley.com/toc/24711403/current). But what is a GeoHealth Resource? Culture? or Policy? Here we define 'Geohealth Resources' as a function, process, tool, or digital object that scales global, community, and individual resources (see also definitions above). Building a shared understanding with terms and vocabulary is just one component of a process for determining consensus on position statements, in order to build on and GeoHealth Section leadership work in progress, introduced in the article [A GeoHealth Response to a Geoscience Community Climate Change Position Statement (Rehr et al 2020)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GH000265).
 
 **@dr_cband example of a GeoHealth Policy from the perspective of an individual scientist:** For the COVID-19 impacted 2020 AGU Fall Meeting, GeoHealth Section sponsored Town Hall, we drafted a mental health resource for distribution along with  educational resources and workshop tools to address code-of-conduct policy updates in National Science Foundation (NSF) Significant Changes and Clarifications to the Proposal & Award Policies & Procedures Guide Chapter II.E.7, Conferences (2019).  The [Talk-to-Someone open source online resource](https://waterhackweek.github.io/learning-resources/canaryopera/need_to_talk_to_someone/#suicide-is-a-big-issue) is intended for grassroots suicide prevention and mental health promotion by geoscience leaders and learners.  We hope this will continue to address known and emerging impacts on careers, online workspaces, and research communities, and to promote a culture shift where we respect ourselves and each other as GEOSCIENCE-MOTIVATED HUMANS first. Platforms, campaigns, and research from within the past two years, are organized for an audience of educators to share in their classroom and online communities. The resource is specific to education about mental health tools and language customized for geo-computer-data scientists (Earth system modelers and environmental software developers - you know who you are). Publicly available on Github, instructions on how to reuse, edit, and contribute are included.  
 
