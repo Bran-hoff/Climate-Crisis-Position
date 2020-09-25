@@ -8,7 +8,7 @@ AGU provides support for member comments on its position statements ([AGU, 2019a
 
 #### Work in Progress Summary Definitions:  [Read more on this Geohealth Fact Sheet](https://www.agu.org/Share-and-Advocate/Share/Policymakers/Position-Statements/Fact-sheet-Geohealth)
 
-**Geohealth**: an emerging field of science that uses the intersection of Earth sciences, ecology, and health sciences to understand how environmental changes or exposures affect and impact agricultural, ecological, and human health and disease. AGU GeoHealth Section members increase scientific understanding and broaden the study of how climate, pollution, hazards, ecosystems, and agriculture shape human and ecological health, as observed in past and current conditions, and projected for  future scenarios of geophysical processes, health of human individuals and communities, and ecosystem networks on the Earth. 
+**Geohealth**: an emerging field of science that uses the intersection of Earth sciences, ecology, and health sciences to understand how environmental changes or exposures affect and impact agricultural, ecological, and human health and disease.  
 
 **GeoHealth Policy**: For the purpose of determining AGU GeoHealth member consensus on a shared issue of community interest, to qualify as a GeoHealth Policy or GeoHealth-informed decision, an educational or research products or resources used to substantiate the policy position or decision must address the following issues: geo-scalability, info-scalability, and socio-scalability. 
 
@@ -16,14 +16,16 @@ _Examples of emergent Geohealth research questions include:_ How will greenhouse
 
 **Geo-scalability**: geographic scaling for global, community, and individual usability for decisions and communication.
 
-**Info-scalability**: translational information and knowledge infrastructure strategies aligned with FAIR standards (findable,accessible, inclusive, reproducible) that are scalable (operationalized governance, computations, and distribution) and customizable (trans-science; trans-technology; trans-language) across one or more geoscience disciplines and one or more health disciplines involved in researching processes or mechanisms linked to human health impacts, education and/or mortality.    
+**Info-scalability**: translational information and knowledge infrastructure strategies aligned with FAIR standards (findable,accessible, inclusive, reproducible) that are scalable (operationalized governance, computations, and distribution) and customizable (trans-science; trans-technology; trans-language) across one or more geoscience disciplines and one or more health disciplines involved in researching processes or mechanisms linked to human health impacts, education and/or mortality.      
+
 **Socio-scalability**: attention to experimental and product design for inclusion of long time scales, extreme short-term conditions, high risks, impacts, behavior, or responses to new physical or environmental conditions and/or technologic advances. 
 
 **GeoHealth experiments** test hypotheses on complex systems which can be measured with earth observations, sensor monitoring data, human subject, education evaluation and/or social research studies and/or simulated as a function of geophysical processes or theory using numerical, physical and/or statistical models. 
 
 **GeoHealth Case Studies** are generally on 'the edge' geographically and technically, and/or 'end-members' numerically and mineralogically or chemically. An edge-end-member geohealth case study or experimental design can be identified as a dynamic intersection of vulnerable ecosystems, communities and individuals with high risk of impact or change. By using case studies from edge-end-member scenarios and research experiments, scientific advancement can be identified with research products that may have profound impacts in a scientific community, and/or broad impacts in collaborative socio-technology, education, informatics, natural hazards, and policy domains. 
 
-**AGU GeoHealth Section and GeoHealth membership** have wide-ranging research areas and applications that connect individual scientists to local and global research and education resources, in order to understand individual impacts connected to cumulative and nested processes, that scale across household, neighborhood, community, regional and global ecoystems.  
+**AGU GeoHealth Section and GeoHealth membership** have wide-ranging research areas and applications that connect individual scientists to local and global research and education resources, in order to understand individual impacts connected to cumulative and nested processes, that scale across household, neighborhood, community, regional and global ecoystems.  AGU GeoHealth Section members increase scientific understanding and broaden the study of how climate, pollution, hazards, ecosystems, and agriculture shape human and ecological health, as observed in past and current conditions, and projected for  future scenarios of geophysical processes, health of human individuals and communities, and ecosystem networks on the Earth.
+
 
 # How are Climate and Mental Health and COVID-19 connected?
 [Matt Haig just perfectly explained how the climate crisis is linked to our mental health](https://www.stylist.co.uk/people/matt-haig-climate-change-mental-health-issue-compartmentalising-problem/427048), by Lauren Geall, September 15, 2020. 
