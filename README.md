@@ -2,7 +2,7 @@
 To learn more about AGU's GeoHealth Section, visit https://connect.agu.org/geohealth/home 
 Follow us on Twitter: @AguGeohealth.  Read more at [A GeoHealth Response to a Geoscience Community Climate Change Position Statement (Rehr et al 2020)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GH000265).
 
-AGU provides support for member comments on its position statements (AGU, 2019a), as well as content‐specific information that may be helpful in the comment process, like fact sheets and issue briefs (e.g., the Fact Sheet on Climate Change; AGU, n.d.).
+AGU provides support for member comments on its position statements ([AGU, 2019a](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GH000265#gh2170-bib-0001)), as well as content‐specific information that may be helpful in the comment process, like fact sheets and issue briefs ([e.g., the Fact Sheet on Climate Change; AGU, n.d.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GH000265#gh2170-bib-0003)).
 
 ## What is a GeoHealth Policy or GeoHealth Position Statement? 
 #### Work in Progress Definitions:
@@ -21,12 +21,24 @@ To qualify as a GeoHealth Policy or GeoHealth-informed decision, an educational 
 **AGU GeoHealth Section and GeoHealth membership** have wide-ranging research areas and applications that connect individual scientists to local and global research and education resources, in order to understand individual impacts connected to cumulative and nested processes, that scale across household, neighborhood, community, regional and global ecoystems.  
 
 # How are Climate and Mental Health and COVID-19 connected?
-[Matt Haig just perfectly explained how the climate crisis is linked to our mental health](https://www.stylist.co.uk/people/matt-haig-climate-change-mental-health-issue-compartmentalising-problem/427048), by Lauren Geall, September 15, 2020. [!image](https://twitter.com/matthaig1/status/1305962967402414088?s=20)
+[Matt Haig just perfectly explained how the climate crisis is linked to our mental health](https://www.stylist.co.uk/people/matt-haig-climate-change-mental-health-issue-compartmentalising-problem/427048), by Lauren Geall, September 15, 2020. 
+
 
 ## Proposal for a AGU Fall Meeting Town Hall on Mental Health: 
 When any AGU member is disrupted or unable to contribute to education and research, we can expect global ripple effects of scientific progress linked to the growth or decline of institutional and physical process understanding within research communities and public knowledge systems, about earth and environmental systems on which human health and society depend. 
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We need to stop compartmentalising issues. Mental health and environmentalism are related issues. Our detachment from nature, and from our own human nature, is as bad for our minds as it is for our eco system. Our brains are a part of the natural world. They feel its trauma.</p>&mdash; Matt Haig (@matthaig1) <a href="https://twitter.com/matthaig1/status/1305962967402414088?ref_src=twsrc%5Etfw">September 15, 2020</a></blockquote> 
+
+
+Click on this image to link to a YouTube Interview with Matt Haig | Reasons to Stay Alive and this book  
+[![Link to YouTubeInterview with Matt Haig | Reasons to Stay Alive and this book](https://github.com/waterhackweek/Climate-Change-Position/blob/master/docs/img/notes-nervous-planet.png)](https://www.youtube.com/watch?v=EQomOmSW5_A)
+
+Click on this image to link to Sept 24, 2020 Instagram podcast @i_weigh video - or listen whereever you get podcasts 
+[![Link to Instagram podcast @i_weigh video - or listen whereever you get podcasts](https://github.com/waterhackweek/Climate-Change-Position/blob/master/docs/img/iweigh-matt-jameela.png)](https://www.instagram.com/p/CFiE8EAHbi0)
+
 ### Questions to Explore while ensuring 'GeoHealth' policy alignment: 
+
+***Invited Speakers, Community Discussion with Moderated Q & A, Interactive Work Sessions***
 
 How do we normalize geohealthy* culture shifts that support learning environments, educators and researchers?  
 
@@ -45,12 +57,19 @@ This is a meta-meta example of how geoscientists can thrive within humane academ
 **@dr_cband example of a GeoHealth Policy from the perspective of an community:**
 [In progress]
 
+"The only way to learn, is to live."
+
+- The Midnight Library, Matt Haig.
+
 **Christina's example of a GeoHealth Policy from the perspective of an global community:**
 The value of each human life is immeaureable and irreplaceable. However, we can identify the general level of public investment in a typical academic pathway over a generic 15 years from a funded five years in a PhD program  ($50K average salary), five years as an early career researcher ($75K average salary), and five years as an assistant professor approaching tenure review ($150K average salary). With 50% overhead of a typical US institution, $2.75 million tax-payer dollars and 15 years of a professional life will have been invested in only one portion of the costs to educate a geoscience expert.  Thanks to a thorough peer review culture, to approach the accomplishment of being in a position to consider applying for tenure, the expertise is generally considered at the peak of global respect, and if a federally funded research, their work is documented as so valuable that it is in the national interest to continue and pursue new ideas.  The global peer research community will have identified their contributions as a critical area of ongoing and future research. How much of this investment in a typical 15 years of professional academic investment is reinvested by the typical US based researcher and their US based institution on auto insurance, health insurance and health care?  How does this compare to the fraction spent on preventative mental health and self-care?   What fraction of the 15 years was spent on preventative mental health and self-care? [ numbers TBD ] 
 
-
-
 # Climate Change Position Statement & Learning Resources 
+
+"The only way to learn, is to live."
+
+- The Midnight Library, Matt Haig.
+
 From April 29, 2019 to December 31, 2021, we will be compiling comments on the current AGU Climate Change Position Statement based on the article "A GeoHealth Response to a Geoscience Community Climate Change Position Statement" (Rehr et al., GeoHealth, 2020; submitted) and the GeoHealth Section Comments ([link to 2019.10.12 GeoHealth Comments Integrated in AGU Position Statement](https://github.com/waterhackweek/Climate-Change-Position/blob/master/AGU2019ClimateChangePositionStatement_GeoHealthComments_20191010.pdf).  This is a review version for additional commenting on GeoHealth Section edits Submitted by Aubrey Miller (President) and Claire Horwell (President-Elect) on behalf of the GeoHealth Section Leadership (October 11, 2019). AGU commenting period ends 2019.10.13.
 
 ## How to Contribute Comments and Learning Resources
