@@ -29,12 +29,11 @@ When any AGU member is disrupted or unable to contribute to education and resear
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We need to stop compartmentalising issues. Mental health and environmentalism are related issues. Our detachment from nature, and from our own human nature, is as bad for our minds as it is for our eco system. Our brains are a part of the natural world. They feel its trauma.</p>&mdash; Matt Haig (@matthaig1) <a href="https://twitter.com/matthaig1/status/1305962967402414088?ref_src=twsrc%5Etfw">September 15, 2020</a></blockquote> 
 
+|                                                            Link to a YouTube Interview with Matt Haig \| Author of __Reasons to Stay Alive__ and __Notes on a Nervous Planet__                                                           	|                                                                    Link to Sept 24, 2020 Instagram podcast @i_weigh video - or listen where ever you get podcasts                                                                    	|
+|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|
+| [![Link to YouTubeInterview with Matt Haig \| Reasons to Stay Alive and this book](https://github.com/waterhackweek/Climate-Change-Position/blob/master/docs/img/notes-nervous-planet.png)](https://www.youtube.com/watch?v=EQomOmSW5_A) 	| [![Link to Instagram podcast @i_weigh video - or listen whereever you get podcasts](https://github.com/waterhackweek/Climate-Change-Position/blob/master/docs/img/iweigh-matt-jameela.png)](https://www.instagram.com/p/CFiE8EAHbi0) 	|
 
-Click on this image to link to a YouTube Interview with Matt Haig | Reasons to Stay Alive and this book  
-[![Link to YouTubeInterview with Matt Haig | Reasons to Stay Alive and this book](https://github.com/waterhackweek/Climate-Change-Position/blob/master/docs/img/notes-nervous-planet.png)](https://www.youtube.com/watch?v=EQomOmSW5_A)
 
-Click on this image to link to Sept 24, 2020 Instagram podcast @i_weigh video - or listen whereever you get podcasts 
-[![Link to Instagram podcast @i_weigh video - or listen whereever you get podcasts](https://github.com/waterhackweek/Climate-Change-Position/blob/master/docs/img/iweigh-matt-jameela.png)](https://www.instagram.com/p/CFiE8EAHbi0)
 
 ### Questions to Explore while ensuring 'GeoHealth' policy alignment: 
 
